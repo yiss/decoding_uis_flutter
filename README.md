@@ -3,4 +3,4 @@ Decoding UIs in Flutter is a series of article aimed at recreating UI elements u
 
 | UI Name | Original | Result | Article | Code |
 |--|--|--|--|--|
-| Spotify Cards | ![Spotify Cards](fdsd) | ![Spotify Cards In Flutter](sfsdvc) | [spotify_cards](spotify) |
+| Spotify Cards | ![Spotify Cards](https://github.com/yiss/decoding_uis_flutter/blob/master/imgs/spotify_orginal.jpg) | ![Spotify Cards In Flutter](https://github.com/yiss/decoding_uis_flutter/blob/master/imgs/spotify_flutter.jpg) | [Recreating Spotify categories card with Flutter](https://flint.sh/en/news/recreating-spotify-categories-card-with-flutter) |[spotify_cards](https://github.com/yiss/decoding_uis_flutter/tree/master/lib/spotify_cards) |
